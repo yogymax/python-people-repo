@@ -22,6 +22,10 @@ class TestDemoCalculator(unittest.TestCase):
     def test_demo(self):
         print('demo test')
 
+    def test_demo_one_more(self):
+        print('demo test one more')
+
+
 
 if __name__ == '__main__':
     unittest.main()
