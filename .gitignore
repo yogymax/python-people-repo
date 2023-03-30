@@ -1,2 +1,4 @@
 .idea
 /venv
+controller/__pycache__/
+tests/__pycache__/
